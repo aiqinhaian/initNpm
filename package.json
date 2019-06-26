@@ -1,0 +1,10 @@
+{
+  "name": "{{name}}",
+  "version": "1.0.0",
+  "description": "{{description}}",
+  "bin": {
+    "init": "./bin/init.js"
+  },
+  "author": "{{author}}",
+  "license": "ISC",
+}
